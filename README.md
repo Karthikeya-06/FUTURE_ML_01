@@ -62,6 +62,8 @@ Interactive visualizations were generated to uncover trends and patterns in the 
 Shows total sales aggregated per month, revealing seasonal patterns across the year.
 
 ![Monthly Sales Trend](plot_monthly_sales.png)
+<img width="1500" height="750" alt="plot_monthly_sales" src="https://github.com/user-attachments/assets/33350e14-a3ae-4256-8002-a803a23ec42d" />
+
 
 ---
 
@@ -69,13 +71,15 @@ Shows total sales aggregated per month, revealing seasonal patterns across the y
 Compares total revenue contribution across the three main product categories: Furniture, Office Supplies, and Technology.
 
 ![Sales by Category](plot_sales_category.png)
+<img width="1200" height="750" alt="plot_sales_category" src="https://github.com/user-attachments/assets/96cda136-a6dd-432c-be0c-32f135d65f2c" />
 
 ---
 
 ### 🌍 Sales Distribution by Region
 Pie chart showing how sales are distributed across the four business regions.
 
-![Sales by Region](plot_sales_region.png)
+![Sales by Region](plot_sales_region.png)<img width="1050" height="1050" alt="plot_sales_region" src="https://github.com/user-attachments/assets/6c6abc20-4468-4a51-b879-7bc891aa5e99" />
+
 
 ---
 
@@ -83,6 +87,8 @@ Pie chart showing how sales are distributed across the four business regions.
 Scatter plot exploring the relationship between sales volume and profit for each product category.
 
 ![Profit vs Sales](plot_profit_vs_sales.png)
+<img width="1350" height="750" alt="plot_profit_vs_sales" src="https://github.com/user-attachments/assets/3d3b6c0d-8da9-4345-82c3-4a8f45392e18" />
+
 
 ---
 
@@ -90,6 +96,7 @@ Scatter plot exploring the relationship between sales volume and profit for each
 Bar chart showing the total sales performance for each year in the dataset.
 
 ![Yearly Sales](plot_yearly_sales.png)
+<img width="1200" height="750" alt="plot_yearly_sales" src="https://github.com/user-attachments/assets/12c571a7-e3b4-4534-b759-73fc1b15d355" />
 
 ---
 
@@ -97,6 +104,7 @@ Bar chart showing the total sales performance for each year in the dataset.
 Comparison of actual sales values against the Random Forest model's predictions on the test set.
 
 ![Actual vs Predicted](plot_actual_vs_predicted.png)
+<img width="1500" height="750" alt="plot_actual_vs_predicted" src="https://github.com/user-attachments/assets/3cc49eb5-9a07-4fa2-9651-66fda6973ad1" />
 
 ---
 
